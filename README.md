@@ -1,15 +1,24 @@
 ## Hello, my name is Lucas Pansera 👋
 
-<!--
-**Pansera13/Pansera13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+ 📬 Contato
 
-- 🎓 Currently studying Information Systems  
-- 🧠 Trying to understand how programming works and what it can do  
-- 🚀 Looking for skills to make a solo career in programming  
-- ❌ Don’t ask me anything... I probably won’t understand it (yet)  
-- 📧 How to reach me: lucaspansera12345@gmail.com  
-- 🧍‍♂️ Pronouns: he/him (or elu/delu if you want to confuse me)  
-- 🎮 Fun fact: I enjoy playing video games in my free time  
+| 📧 Email | 💬 Discord |
+| -------- | ---------- |
+| lucaspansera12345@gmail.com | lucas_13._. |
+
 
 ---
+# 👋 Sobre mim
+
+🎓 Formação
+- Cursando **Sistemas de Informação**.
+- Aprendendo sobre desenvolvimento de software e soluções criativas com código.
+
+🎯 Objetivo Profissional
+- Pretendo atuar na **área de criação de jogos**, unindo programação, design e narrativa para construir experiências incríveis.
+
+🎮 Hobbies
+- Ler livros (principalmente de ficção e tecnologia) 📚
+- Jogar videogame nas horas vagas 🕹️
+
+
