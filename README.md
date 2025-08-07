@@ -2,9 +2,11 @@
 
  📬 Contato
 
-| 📧 Email | 💬 Discord |
-| -------- | ---------- |
-| lucaspansera12345@gmail.com | lucas_13._. |
+- 📧 [Email](mailto:lucaspansera12345@gmail.com)
+- 💬 [Discord](https://discordapp.com/users/lucas_13._.)
+- 🐙 [GitHub](https://github.com/Pansera13)
+
+
 
 
 ---
@@ -23,6 +25,6 @@
 - Assistir animes e aproveitar tudo que envolve essa cultura, como filmes, mangás e eventos 🎥🎉
 - Cuidar e observar aves, como calopsitas, agapornis e outras espécies 🦜🐦
 
-
-<img src="https://i.pinimg.com/originals/bc/92/a5/bc92a54fd52558c950378140d66059e3.gif" width="100"/>
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/df/7a/09/df7a0917f63046928f6a9b80838efdaf.gif" alt="descrição" width="70">
+</p>
