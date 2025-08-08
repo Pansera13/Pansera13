@@ -5,6 +5,10 @@
 - 📧 [Email](mailto:lucaspansera12345@gmail.com)
 - 💬 [Discord](https://discordapp.com/users/lucas_13._.)
 - 🐙 [GitHub](https://github.com/Pansera13)
+<p style="text-align: right; margin-top: 0;">
+  <img src="https://i.pinimg.com/originals/df/7a/09/df7a0917f63046928f6a9b80838efdaf.gif" 
+       alt="descrição" width="100">
+</p>
 
 
 
@@ -26,5 +30,5 @@
 - Cuidar e observar aves, como calopsitas, agapornis e outras espécies 🦜🐦
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/df/7a/09/df7a0917f63046928f6a9b80838efdaf.gif" alt="descrição" width="70">
+  <img src="https://i.pinimg.com/originals/df/7a/09/df7a0917f63046928f6a9b80838efdaf.gif" alt="descrição" width="150">
 </p>
