@@ -1,4 +1,4 @@
-<h1 align="center">𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆</h1>
+<h1 align="center">𝔀𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 
 <h2 align="center">📬 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔</h2>
 
@@ -41,18 +41,18 @@
 
 <h3>🎯 Professional Goal</h3>
 
-- I aim to work in the **game development field**, combining programming, design, and storytelling to create amazing experiences.
+- 𝑰 𝒂𝒊𝒎 𝒕𝒐 𝒘𝒐𝒓𝒌 𝒊𝒏 𝒕𝒉𝒆 **𝒈𝒂𝒎𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒇𝒊𝒆𝒍𝒅**, 𝒄𝒐𝒎𝒃𝒊𝒏𝒊𝒏𝒈 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈, 𝒅𝒆𝒔𝒊𝒈𝒏, 𝒂𝒏𝒅 𝒔𝒕𝒐𝒓𝒚𝒕𝒆𝒍𝒍𝒊𝒏𝒈 𝒕𝒐 𝒄𝒓𝒆𝒂𝒕𝒆 𝒂𝒎𝒂𝒛𝒊𝒏𝒈 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆𝒔.
 
 <h3>🐤 Hobbies</h3>
 
-- Reading books (mainly fiction and technology) 📚  
-- Playing video games in my free time 🕹️  
-- Watching anime and enjoying everything related to this culture, like movies, manga, and events 🎥🎉  
-- Taking care of and observing birds such as cockatiels, lovebirds, and other species 🦜🐦
+- 𝑹𝒆𝒂𝒅𝒊𝒏𝒈 𝒃𝒐𝒐𝒌𝒔 (𝒎𝒂𝒊𝒏𝒍𝒚 𝒇𝒊𝒄𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚) 📚 
+- 𝑷𝒍𝒂𝒚𝒊𝒏𝒈 𝒗𝒊𝒅𝒆𝒐 𝒈𝒂𝒎𝒆𝒔 𝒊𝒏 𝒎𝒚 𝒇𝒓𝒆𝒆 𝒕𝒊𝒎𝒆 🕹️ 
+- 𝑾𝒂𝒕𝒄𝒉𝒊𝒏𝒈 𝒂𝒏𝒊𝒎𝒆 𝒂𝒏𝒅 𝒆𝒏𝒋𝒐𝒚𝒊𝒏𝒈 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒓𝒆𝒍𝒂𝒕𝒆𝒅 𝒕𝒐 𝒕𝒉𝒊𝒔 𝒄𝒖𝒍𝒕𝒖𝒓𝒆, 𝒍𝒊𝒌𝒆 𝒎𝒐𝒗𝒊𝒆𝒔, 𝒎𝒂𝒏𝒈𝒂, 𝒂𝒏𝒅 𝒆𝒗𝒆𝒏𝒕𝒔 🎥🎉 
+- 𝑻𝒂𝒌𝒊𝒏𝒈 𝒄𝒂𝒓𝒆 𝒐𝒇 𝒂𝒏𝒅 𝒐𝒃𝒔𝒆𝒓𝒗𝒊𝒏𝒈 𝒃𝒊𝒓𝒅𝒔 𝒔𝒖𝒄𝒉 𝒂𝒔 𝒄𝒐𝒄𝒌𝒂𝒕𝒊𝒆𝒍𝒔, 𝒍𝒐𝒗𝒆𝒃𝒊𝒓𝒅𝒔, 𝒂𝒏𝒅 𝒐𝒕𝒉𝒆𝒓 𝒔𝒑𝒆𝒄𝒊𝒆𝒔 🦜🐦
 
 ---
 
-<h1> 💖 Thanks for reading 💖</h1>
+<h1> 💖 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 💖</h1>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg3M2I5YjZxeHlibzM2eDcwZXViOHpueXZkNmJlMmE3Zmp1NWEydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3MZIDYT3rTv7PBVlQv/giphy.gif" alt="description" width="240">
