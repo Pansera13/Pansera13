@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to my profile</h1>
+<h1 align="center">𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆</h1>
 
-<h2 align="center">📬 Contacts</h2>
+<h2 align="center">📬 𝑪𝒐𝒏𝒕𝒂𝒄𝒕𝒔</h2>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
@@ -24,23 +24,27 @@
 
 ---
 
-# 👋 About me
+<h1>👋 About me</h1>
 
-🐉 Profile
+<h3>🐉 Profile</h3>
 
-- **Name:** Lucas Pansera  
-- **Gender:** Male  
-- **Age:** 20 years  
-- **Location:** Brazil
+- **𝑵𝒂𝒎𝒆:** 𝑳𝒖𝒄𝒂𝒔 𝑷𝒂𝒏𝒔𝒆𝒓𝒂 
+- **𝑮𝒆𝒏𝒅𝒆𝒓:** 𝑴𝒂𝒍𝒆 
+- **𝑨𝒈𝒆:** 20 𝒚𝒆𝒂𝒓𝒔 
+- **𝑳𝒐𝒄𝒂𝒕𝒊𝒐𝒏:** 𝑩𝒓𝒂𝒛𝒊𝒍
 
-🎓 Education  
-- Currently studying **Information Systems**.  
-- Learning about software development and creative solutions with code.
+<h3>🎓 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏</h3>
 
-🎯 Professional Goal  
+- 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈 **𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝑺𝒚𝒔𝒕𝒆𝒎𝒔**
+
+ - 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉 𝒄𝒐𝒅𝒆.
+
+<h3>🎯 Professional Goal</h3>
+
 - I aim to work in the **game development field**, combining programming, design, and storytelling to create amazing experiences.
 
-🎮 Hobbies  
+<h3>🐤 Hobbies</h3>
+
 - Reading books (mainly fiction and technology) 📚  
 - Playing video games in my free time 🕹️  
 - Watching anime and enjoying everything related to this culture, like movies, manga, and events 🎥🎉  
