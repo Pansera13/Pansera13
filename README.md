@@ -54,6 +54,6 @@
 
 <h1> 💖 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 💖</h1>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl1ZHJ2Z2Z4cjZ6YWpoc3ozaG1ub2llbWJrY2FwOG03aDNnN21ycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9GIyktt76WotG/giphy.gif" alt="description" width="240">
+<p align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDl1ZHJ2Z2Z4cjZ6YWpoc3ozaG1ub2llbWJrY2FwOG03aDNnN21ycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9GIyktt76WotG/giphy.gif" alt="description" width="500">
 </p>
